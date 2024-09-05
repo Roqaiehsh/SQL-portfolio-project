@@ -1,3 +1,6 @@
+
+--Data Exploration ----------
+
 CREATE DATABASE IF NOT EXISTS salesDataWalmart;
 CREATE TABLE IF NOT EXISTS sale(
 invoice_id VARCHAR(30) NOT NULL PRIMARY KEY,
